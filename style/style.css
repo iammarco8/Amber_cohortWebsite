@@ -1,0 +1,15 @@
+.main1{
+    height: 100%;
+    /* width: 100vh; */
+    background: linear-gradient(90deg, #EE5F00, #00528D, #EE5F00);
+}
+
+.top{
+    display: flex;
+    flex-flow: column;
+    width: fit-content;
+}
+
+.top h1{
+    
+}
